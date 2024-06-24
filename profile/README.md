@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/zewdlabs">
-   <img src="./background.png" alt="Logo">
+   <img src="https://github.com/zewdlabs/.github/blob/main/background.png?raw=true" alt="Logo">
   </a>
 
   <h3 align="center">Zewdlabs, Inc.</h3>
